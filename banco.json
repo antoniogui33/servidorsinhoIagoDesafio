@@ -1,0 +1,21 @@
+[
+    {
+        "user": "user1",
+        "login": 3242
+    },
+
+    {
+        "user": "user2",
+        "login": 3232
+    },
+
+      {
+        "user": "user3",
+        "login": 64563
+    },
+
+     {
+        "user": "user4",
+        "login": 75472
+    }
+]
